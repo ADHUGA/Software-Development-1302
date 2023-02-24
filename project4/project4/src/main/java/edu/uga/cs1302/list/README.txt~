@@ -1,0 +1,1 @@
+You can compile my program by first cleaning my project by navigating to the folder where you see pom.xml and typing mvn clean. After you do that you can type mvn compile to compile my project

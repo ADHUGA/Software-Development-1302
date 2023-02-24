@@ -1,0 +1,29 @@
+package edu.uga.cs1302.vehicles;
+
+public abstract class Vehicle implements Transporter
+{
+    private String name;
+    private String manufacturer;
+    private int year;
+    private int count;
+
+    public int getMaxPassengers ()
+    {
+	
+    }
+
+    public void getMaxPassengers (int maxPassengers)
+    {
+
+    }
+
+    public int getTopSpeed ()
+    {
+
+    }
+
+    public void setTopSpeed (int topSpeed)
+    {
+
+    }
+}

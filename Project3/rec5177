@@ -1,0 +1,65 @@
+Project3:
+total 4
+drwxr-xr-x. 3 myid   25 Jul 11 23:38 classes
+-rw-r--r--. 1 myid 1758 Jul 11 23:51 rec3905
+-rw-r--r--. 1 myid    0 Jul 11 23:55 rec5177
+drwxr-xr-x. 3 myid   25 Jul 11 19:32 src
+
+Project3/classes:
+total 0
+drwxr-xr-x. 3 myid 25 Jul 11 23:38 edu
+
+Project3/classes/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul 11 23:40 uga
+
+Project3/classes/edu/uga:
+total 0
+drwxr-xr-x. 4 myid 45 Jul 11 23:40 cs1302
+
+Project3/classes/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid 147 Jul 11 23:47 test
+drwxr-xr-x. 2 myid  10 Jul 11 23:40 txtbuff
+
+Project3/classes/edu/uga/cs1302/test:
+total 16
+-rw-r--r--. 1 myid  342 Jul 11 23:47 Editable.class
+-rw-r--r--. 1 myid 1738 Jul 11 23:47 EditableTextLine.class
+-rw-r--r--. 1 myid 1965 Jul 11 23:47 TextLine.class
+-rw-r--r--. 1 myid  667 Jul 11 23:47 TextLineIndexOutOfBoundsException.class
+
+Project3/classes/edu/uga/cs1302/txtbuff:
+total 0
+
+Project3/src:
+total 0
+drwxr-xr-x. 3 myid 25 Jul 11 19:32 edu
+
+Project3/src/edu:
+total 0
+drwxr-xr-x. 3 myid 20 Jul 11 19:33 uga
+
+Project3/src/edu/uga:
+total 0
+drwxr-xr-x. 4 myid 45 Jul 11 20:47 cs1302
+
+Project3/src/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid  41 Jul 11 23:38 test
+drwxr-xr-x. 2 myid 180 Jul 11 23:54 txtbuff
+
+Project3/src/edu/uga/cs1302/test:
+total 4
+-rw-r--r--. 1 myid 2467 Jul 11 23:38 EditableTextLineTester.java
+
+Project3/src/edu/uga/cs1302/txtbuff:
+total 236
+-rw-r--r--. 1 myid    479 Jul 11 23:37 Editable.java
+-rw-r--r--. 1 myid   3161 Jul 11 23:37 EditableTextLine.java
+-rw-r--r--. 1 myid   1178 Jul 11 23:54 README.txt
+-rw-r--r--. 1 myid   1116 Jul 11 23:34 README.txt~
+-rw-r--r--. 1 myid 214571 Jul 11 23:10 TestPlan.pdf
+-rw-r--r--. 1 myid    649 Jul 11 23:37 TextLineIndexOutOfBoundsException.java
+-rw-r--r--. 1 myid   4022 Jul 11 23:37 TextLine.java
+/home/myid/adh27018/cs1302/Project3:/home/myid/csci-1302a

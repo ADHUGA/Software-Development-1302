@@ -1,0 +1,60 @@
+package edu.uga.cs1302.vehicles;
+
+public class Glider extends Vehicle implements Flyable
+{
+    private String wings;//This is private to ensure proper encapsulation.
+    private int maxAltitude;//This is private to ensure proper encapsulation.
+    private int maxRange;//This is private to ensure proper encapsulation.
+
+    public Glider(String n, String m, int y, int p, int s, String w, int mA, int mR)//Parameter matches that of the parent class with the added variable of w exclusive to the variable of glider.
+    {
+    	super( n, m, y, p, s);//Using parent's parameters.
+    	wings = w;
+    	maxAltitude = mA;
+    	maxRange = mR;
+    }
+
+    public String getWings()
+    {
+    	return wings;
+    }
+
+    public void setWings(String w)
+    {
+    	wings = w;
+    }
+
+	@Override
+	public int getMaxAltitude() 
+	{
+		return maxAltitude;
+	}
+
+	@Override
+	public void setMaxAltitude(int maxAltitude) 
+	{	
+		this.maxAltitude = maxAltitude;
+	}
+
+	@Override
+	public int getMaxRange() 
+	{	
+		return maxRange;
+	}
+
+	@Override
+	public void setMaxRange(int maxRange) 
+	{
+		this.maxRange = maxRange;
+	}
+	
+	@Override
+    public boolean equals(Object obj) //Overriden equals method just in case I needed it.
+    {
+    	if( obj == this) return true; 
+    	if(obj == null || !(obj instanceof Vehicle)) return false;
+    	Vehicle otherVehicle = (Vehicle) obj;
+    	return getName() != null && getName().equals(otherVehicle.getName() ) && getManufacturer() != null && getManufacturer().equals(otherVehicle.getManufacturer()) && getYear() == otherVehicle.getYear() && getMaxPassengers() == otherVehicle.getMaxPassengers() && getTopSpeed() == otherVehicle.getTopSpeed();
+    	
+    }
+}

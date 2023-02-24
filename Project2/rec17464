@@ -1,0 +1,81 @@
+Project2:
+total 0
+drwxr-xr-x. 3 myid 25 Jun 27 20:46 classes
+-rw-r--r--. 1 myid  0 Jun 27 23:05 rec17464
+drwxr-xr-x. 3 myid 25 Jun 23 23:03 src
+
+Project2/classes:
+total 0
+drwxr-xr-x. 3 myid 25 Jun 27 20:46 edu
+
+Project2/classes/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jun 27 20:46 uga
+
+Project2/classes/edu/uga:
+total 0
+drwxr-xr-x. 3 myid 30 Jun 27 20:46 cs1302
+
+Project2/classes/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid 228 Jun 27 20:46 vehicles
+
+Project2/classes/edu/uga/cs1302/vehicles:
+total 44
+-rw-r--r--. 1 myid 1345 Jun 27 20:46 Airplane.class
+-rw-r--r--. 1 myid 1540 Jun 27 20:46 Animal.class
+-rw-r--r--. 1 myid  938 Jun 27 20:46 Automobile.class
+-rw-r--r--. 1 myid  178 Jun 27 20:46 Floatable.class
+-rw-r--r--. 1 myid  226 Jun 27 20:46 Flyable.class
+-rw-r--r--. 1 myid 1343 Jun 27 20:46 Glider.class
+-rw-r--r--. 1 myid 1170 Jun 27 20:46 Ship.class
+-rw-r--r--. 1 myid  238 Jun 27 20:46 Transporter.class
+-rw-r--r--. 1 myid 1584 Jun 27 20:46 Vehicle.class
+-rw-r--r--. 1 myid 6158 Jun 27 20:46 VehicleManager.class
+
+Project2/src:
+total 0
+drwxr-xr-x. 3 myid 17 Jun 23 23:04 edu
+
+Project2/src/edu:
+total 0
+drwxr-xr-x. 4 myid 42 Jun 27 22:59 uga
+
+Project2/src/edu/uga:
+total 0
+drwxr-xr-x. 3 myid 30 Jun 27 22:59 cs
+drwxr-xr-x. 3 myid 30 Jun 23 23:16 cs1302
+
+Project2/src/edu/uga/cs:
+total 0
+drwxr-xr-x. 2 myid 10 Jun 27 22:59 students
+
+Project2/src/edu/uga/cs/students:
+total 0
+
+Project2/src/edu/uga/cs1302:
+total 4
+drwxr-xr-x. 2 myid 4096 Jun 27 22:27 vehicles
+
+Project2/src/edu/uga/cs1302/vehicles:
+total 80
+-rw-r--r--. 1 myid 1904 Jun 27 20:19 Airplane.java
+-rw-r--r--. 1 myid 1856 Jun 27 20:05 Airplane.java~
+-rw-r--r--. 1 myid 2061 Jun 27 20:23 Animal.java
+-rw-r--r--. 1 myid 1954 Jun 27 20:05 Animal.java~
+-rw-r--r--. 1 myid 1154 Jun 27 20:25 Automobile.java
+-rw-r--r--. 1 myid 1160 Jun 27 20:05 Automobile.java~
+-rw-r--r--. 1 myid  192 Jun 27 20:05 Floatable.java
+-rw-r--r--. 1 myid   61 Jun 24 00:46 Floatable.java~
+-rw-r--r--. 1 myid  266 Jun 27 20:05 Flyable.java
+-rw-r--r--. 1 myid 1707 Jun 27 20:29 Glider.java
+-rw-r--r--. 1 myid 1661 Jun 27 20:05 Glider.java~
+-rw-r--r--. 1 myid  698 Jun 27 22:27 README.txt
+-rw-r--r--. 1 myid  160 Jun 27 21:32 README.txt~
+-rw-r--r--. 1 myid 1283 Jun 27 20:30 Ship.java
+-rw-r--r--. 1 myid 1261 Jun 27 20:05 Ship.java~
+-rw-r--r--. 1 myid  258 Jun 27 20:05 Transporter.java
+-rw-r--r--. 1 myid 2492 Jun 27 20:05 Vehicle.java
+-rw-r--r--. 1 myid  412 Jun 24 01:58 Vehicle.java~
+-rw-r--r--. 1 myid 7196 Jun 27 20:05 VehicleManager.java
+/home/myid/adh27018/cs1302/Project2:/home/myid/csci-1302a
